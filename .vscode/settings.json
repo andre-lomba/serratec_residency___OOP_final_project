@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\andre\\OneDrive\\Serratec\\3 - Programação Orientada a Objetos\\PROJETO FINAL VSCODE\\postgresql-42.6.0.jar"
+    ]
+}
